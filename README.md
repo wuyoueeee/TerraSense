@@ -2,7 +2,7 @@
 # 🛰️ TerraSense AI (Local Edition) - 基于多模态大模型的遥感影像分析与语义理解
 
 
-项目地址：[https://mbd.pub/o/bread/YZWZl5xuag==](https://mbd.pub/o/bread/YZWZl5xuag==)
+代码获取：[https://mbd.pub/o/bread/YZWZl5xuag==](https://mbd.pub/o/bread/YZWZl5xuag==)
 
 项目展示：
 [![视频封面](https://i-blog.csdnimg.cn/direct/3cc050a89cb546f38beccef9c64c27d2.png)](https://www.bilibili.com/video/BV1bzSKB9EVL/)
