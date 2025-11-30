@@ -3,9 +3,9 @@
 
 
 项目地址：[https://mbd.pub/o/bread/YZWZl5xuag==](https://mbd.pub/o/bread/YZWZl5xuag==)
-项目展示：
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115637196168042&bvid=BV1bzSKB9EVL&cid=34384249957&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+项目展示：
+[![视频封面](https://i-blog.csdnimg.cn/direct/3cc050a89cb546f38beccef9c64c27d2.png)](https://www.bilibili.com/video/BV1bzSKB9EVL/)
 
 **TerraSense AI (Local Edition)** 是一个基于多模态大模型的遥感影像分析与语义理解。
 它完全移除了云端依赖，通过 **Ollama** 调用本地部署的多模态大模型（如 **LLaVA**, **Moondream**），实现数据不离网的科研级分析。
